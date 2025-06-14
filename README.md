@@ -39,9 +39,10 @@ basic_python_programming_exercises_oop/
 │   ├── print_odd_numbers_to_hundred_oop/
 │   │   ├── print_odd_numbers_to_hundred_class.py
 │   │   └── print_odd_numbers_to_hundred_main.py
-│   └── subtract_from_first_number_oop/
-│       ├── subtract_from_first_number_class.py
-│       └── subtract_from_first_number_main.py
+│   ├── subtract_from_first_number_oop/
+│   │   ├── subtract_from_first_number_class.py
+│   │   └── subtract_from_first_number_main.py
+│   └── gistfile2_batch2.txt
 ├── basic_arithmetic_and_logic_operations/
 │   ├── calculate_decimal_quotient_oop/
 │   │   ├── calculate_decimal_quotient_class.py
@@ -70,9 +71,10 @@ basic_python_programming_exercises_oop/
 │   ├── print_non_zero_ending_numbers_oop/
 │   │   ├── print_non_zero_ending_numbers_class.py
 │   │   ├── print_non_zero_ending_numbers_main.py
-│   └── sum_ten_numbers_oop/
-│       ├── sum_ten_numbers_class.py
-│       └── sum_ten_numbers_main.py
+│   ├── sum_ten_numbers_oop/
+│   |   ├── sum_ten_numbers_class.py
+│   |   └── sum_ten_numbers_main.py
+│   └── gistfile2_batch2.txt
 ├── .gitignore
 └── README.md
 ```

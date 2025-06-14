@@ -74,7 +74,7 @@ basic_python_programming_exercises_oop/
 │   ├── sum_ten_numbers_oop/
 │   |   ├── sum_ten_numbers_class.py
 │   |   └── sum_ten_numbers_main.py
-│   └── gistfile2_batch2.txt
+│   └── gistfile1_batch1.txt
 ├── .gitignore
 └── README.md
 ```
